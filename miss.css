@@ -1,0 +1,422 @@
+.page{
+	width:auto;
+	height:auto;
+	border-style:groove;
+}
+.headerpart{
+width:auto;
+height:200px;
+border-style:groove;
+background-color:#8B0000;
+color:white;
+text-align:center;
+margin-right:px;
+}
+.main{
+	float:left;
+margin-top:20px;
+margin-left:18px;
+}
+.lol{
+	margin-left:200px;
+}
+.one{
+	margin-left:10px;
+}
+.linkpart{
+	width:auto;
+	height:40px;
+	margin-top:4px;
+	border-style:groove;
+	margin-bottom:4px;
+	
+    background-color:#8B0000;	
+}
+.show{
+	margin:5px;
+	padding-bottom:5px;
+	color:white;
+}
+.bodypart{
+	width:800px;
+	height:400px;
+	border-style:groove;
+	margin-top:3px;
+	background-image:url("slide3.jpg");
+	display:inline-block;
+	margin-left:3px;
+}
+.bodypart{
+   
+	height: 400px;
+	background: url(logo.png);
+	
+	animation: slide 30s infinite;
+}
+
+@keyframes slide{
+	25%{
+	background: url(slide1.jpg);
+	}
+	50%{
+	background: url(slide2.1.jpg);
+    }
+	75%{
+	background: url(slide4.jpg);
+    }
+	100%{
+	background: url(slide5.jpg);
+    }
+}
+
+
+
+.imagepart
+{
+	width:400px;
+	height:400px;
+	border-style:groove;
+	float:right;
+	margin-top:3px;
+	margin-right:4px;
+	
+	
+}
+.imagepart h2
+{
+	color:green;
+    padding-top:5px;
+	padding-bottom:3px;
+	text-align:center;
+}
+
+
+
+
+
+.honey{
+	margin:px;
+	padding-top:40px;
+	text-align:center;
+	background-color:#8B0000;
+	width:99.5%;
+	margin-left:2px;
+	margin-right:4px;
+	color:white;
+	padding-bottom:px;
+	height:400px;
+	
+}	
+.container {
+	padding-top:30px;
+	margin-top:5px;
+    margin:px;
+	width:99.5%;
+    text-align:center;
+	background-color:#8B0000;
+	margin-left:2px;
+	margin-right:4px;
+	color:white;
+	height:400px;
+}
+.babu{
+	width:99.5%;
+	height:750px;
+	border-style:groove;
+	margin-top:2px;
+	display:;
+	margin-left:3px;
+	background-color:#800000;
+	color:white;
+	text-align:center;
+
+}
+.babu p {
+	padding-top:30px;
+	padding-left:7px;
+}
+.mistake
+{
+	width:47%;
+	height :475px;
+    float:right;
+	border-style:;
+    display:;
+}
+.rock{
+	padding-left:px;
+	padding-top:37px;
+}
+.mistake p{
+	margin-left:7px;
+	margin-bottom:10px;
+}
+.contact-title{
+	margin:10px;
+	padding:10px;
+	text-align: center;
+	background-image: linear-gradient(rgba(0,0,50,0.5),rgba(0,0,50,0.5)),url;
+background-size: cover;
+background-position: center;
+font-family: sans-serif;
+background-color:#8B0000;
+}
+.div1{
+	color: white;
+	text-transformation: uppercase;
+}
+.contact-title h1{
+	font-size: 32px;
+	line-height: 10px;
+	color:white;
+
+}
+.contact-title h2
+{
+	font-size: 25px;
+	color:white;
+}
+form{
+	margin-top: 30px;
+	transition: all 4s ease-in-out;
+	margin-bottom:18px;
+}
+.form-control
+{
+	width:50%;
+	background: transparent;
+	border: none;
+	outline: none;
+	border-bottom: 1px solid gray;
+	color: #fff;
+	font-size: 19px;
+	margin-bottom: 20px;
+}
+input
+{
+	height: 50px;
+}
+form .submit{
+	background: #ff5722;
+	border-color: transparent;
+	color: #fff;
+	font-size: 20px;
+	font-weight: bold;
+	letter-spacing: 2px;
+	height: 50px;
+	margin-top:20px;
+	margin-bottom:10px;
+	padding-bottom:10px;
+}
+form .submit:hover{
+	background-color: #f44336;
+	cursor: pointer;
+}
+
+.sucess{
+	width:auto;
+	height:300px;
+	border-style:groove;
+	margin-top:2px;
+	display:;
+	margin-left:3px;
+	background-color:#800000;
+	color:white;
+	margin-bottom:
+	
+}
+.two{
+	width:99.5%;
+	height:150px;
+	border-style:groove;
+	margin-top:0px;
+	display:inline-block;
+	margin-left:3px;
+	background-color:#8B0000;
+	color:white;
+}
+.col{
+	background-color:grey;
+	border:2px solid black;
+	width:40%;
+}
+.darrow{
+	  font-size: 11pt;
+	  position: absolute;
+	  top: px;
+	  right: px;
+	  color:black;
+  }
+
+
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+ 
+* {
+  margin: 0;
+  padding: 0;
+}
+ 
+body {
+  background:;
+  font-family:robot;
+}
+ 
+.wrapper {
+  position: absolute;
+  top: ;
+  left:380px;
+  margin-top:30px;
+  transform: ;
+  width:;
+}
+ 
+.wrapper ul {
+  list-style: none;
+}
+ 
+.wrapper ul li {
+  width: 65px;
+  height: 65px;
+  margin: 0 15px;
+  text-align: center;
+  cursor: pointer;
+  border-radius: 50%;
+  border: 5px solid #d8e2dc;
+  float: left;
+  position: relative;
+  transition: all 0.5s ease;
+}
+ 
+.wrapper ul li .fab {
+  color: #d8e2dc;
+  line-height: 65px;
+  font-size: 24px;
+  transition: all 0.5s ease;
+}
+ 
+/*facebook*/
+.wrapper ul li:hover.facebook {
+  border: 5px solid #3b5998;
+  box-shadow: 0 0 15px #3b5998;
+}
+ 
+.wrapper ul li:hover .fa-facebook-f,
+.wrapper ul li.facebook:hover:before {
+  color: #3b5998;
+  text-shadow: 0 0 15px #3b5998;
+}
+ 
+/*twitter*/
+.wrapper ul li:hover.twitter {
+  border: 5px solid #00aced;
+  box-shadow: 0 0 15px #00aced;
+}
+ 
+.wrapper ul li:hover .fa-twitter,
+.wrapper ul li.twitter:hover:before {
+  color: #00aced;
+  text-shadow: 0 0 15px #00aced;
+}
+ 
+/* instagram */
+.wrapper ul li:hover.instagram {
+  border: 5px solid #bc2a8d;
+  box-shadow: 0 0 15px #bc2a8d;
+}
+ 
+.wrapper ul li:hover .fa-instagram,
+.wrapper ul li.instagram:hover:before {
+  color: #bc2a8d;
+  text-shadow: 0 0 15px #bc2a8d;
+}
+ 
+/* google */
+.wrapper ul li:hover.google {
+  border: 5px solid #dd4b39;
+  box-shadow: 0 0 15px #dd4b39;
+}
+ 
+.wrapper ul li:hover .fa-google-plus-g,
+.wrapper ul li.google:hover:before {
+  color: #dd4b39;
+  text-shadow: 0 0 15px #dd4b39;
+}
+ 
+/* whatsapp */
+.wrapper ul li:hover.whatsapp {
+  border: 5px solid #4dc247;
+}
+ 
+.wrapper ul li:hover .fa-whatsapp,
+.wrapper ul li.whatsapp:hover:before {
+  color: #4dc247;
+  text-shadow: 0 0 15px #4dc247;
+}
+ 
+ 
+/* For creating the text below the icons, I'm going to use the before pseudo element.*/
+ul li:before {
+  position: absolute;
+  bottom: -35px;
+  color: #fff;
+  font-size: 18px;
+  font-weight: bold;
+  transition: all 0.5s ease;
+}
+ 
+ul li.facebook:before {
+  content: "Facebook";
+  left: -5px;
+}
+ 
+ul li.twitter:before {
+  content: "Twitter";
+  left: 5px;
+}
+ 
+ul li.instagram:before {
+  content: "Instagram";
+  left: -5px;
+}
+ 
+ul li.google:before {
+  content: "Google";
+  left: 5px;
+}
+ 
+ul li.whatsapp:before {
+  content: "Whatsapp";
+  left: -5px;
+}
+ 
+ 
+ 
+/* media queries */
+@media screen and (max-width: 580px) {
+  .wrapper {
+    width:6%;
+
+  }
+  .wrapper ul li {
+    margin-bottom: 17px;
+	margin:px;
+  }
+  .two{
+	  height:500px;
+	  
+  }
+}
+
+.footerpart{
+	width:auto;
+	height:40px;
+	margin-top:2px;
+	padding-top:2px;
+	border-style:groove;
+	margin-bottom:2px;
+	
+    background-color:#8B0000;	
+}
+
+	
+

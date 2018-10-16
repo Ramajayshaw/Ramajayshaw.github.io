@@ -1,0 +1,122 @@
+@media only screen and (max-width:600px) {
+	.one{
+		width:90%;
+		
+		margin-right:8px;
+		padding-top:5px;
+		
+	}
+	.headerpart{
+		height:400px;
+	}
+	.lol{
+		width:auto;
+		margin-right:12px;
+		padding-bottom:5px;
+		padding-top:5px;
+	}
+	.bodypart{
+		width:100%;
+		margin-right:16px;
+	}
+	.footerpart{
+	 font-size:10px;
+	 padding-top:8px;
+ }
+.wrapper ul li{
+	font-size:1px;
+	margin:10px;
+	width:100%;
+	margin-right:140px;
+	padding-right:;
+    float:right;
+	height:10px;
+
+	}
+ 
+.two{
+height:500px;
+
+}	
+		
+}
+@media only screen and (max-width:770px) {
+	.bodypart{
+		width:100%;
+		margin-right:24px;
+	}
+	.headerpart{
+		height:300px;
+	}
+	.one{
+		padding:px;
+	}
+	.lol{
+		padding-right:10px;
+		text-align:center;
+
+		
+	}
+	.wrapper ul li{
+	font-size:1px;
+	margin:10px;
+	width:30%;
+	margin-right:240px;
+	padding-right:;
+    float:right;
+	height:12px;
+
+	}
+
+}
+@media only screen and (max-width:824px) {
+.two{
+height:270px;
+padding:10px;
+
+}
+.wrapper {
+		text-align:center;
+      
+		padding:10px;
+}
+}
+@media only screen and (max-width:1024px) {
+ .bodypart	{
+	width:100%;
+ }
+ .wrapper ul {
+		text-align:center;
+      
+		padding:10px;
+		margin-right:10px;
+}
+ 
+}
+@media only screen and (max-width:1329px) {
+	.one{
+		padding:30px;
+		font-size:22px;
+	}
+	.lol{
+		font-size:22px;
+		margin-right:2px;
+	}
+}
+@media only screen and (max-width:1390px) {
+	.one{
+		padding:30px;
+		font-size:22px;
+	}
+	.lol{
+		font-size:22px;
+		margin-right:2px;
+	}
+}
+
+
+
+
+
+	
+
